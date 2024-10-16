@@ -12,8 +12,6 @@ and tests.
 Notes
 -----
 
-Fedora Core 1 through 4 do not have any updateinfo (at least that I can find).
-
 OpenSUSE starts having updateinfo at 11.0, with a prior patch format in 10.x.
 Currenttly, pre-10.x metadata is not here. I believe this was the precursor
 to the `updateinfo.xml` style metadata, and may not be relevant for any

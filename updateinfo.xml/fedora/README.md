@@ -60,3 +60,23 @@ URLs:
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/core/updates/testing/6/x86_64/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/core/updates/testing/6/i386/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/core/updates/testing/6/ppc/repodata/updateinfo.xml.gz
+
+Fedora 7
+--------
+
+Retreived 2024-10-16.
+
+Last updated 2008-06-14.
+
+The SRPMS repository now has `updateinfo.xml`.
+
+Architectures are now: `SRPMS`, `i386`, `ppc`, `ppc64`, `x86_64`.
+
+The `main` / `updates` repository style continues.
+
+URLs:
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/SRPMS/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/i386/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/ppc/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/ppc64/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/x86_64/repodata/updateinfo.xml.gz

@@ -8,6 +8,18 @@ As per the [License of Fedora Linux](https://docs.fedoraproject.org/en-US/legal/
 Fedora Linux is a compilation of software packages, each under its own licensing terms.
 The compilation license for Fedora Linux is the MIT license.
 
+File names are structured like so:
+
+```
+<distro-name>-<repo>-<distro-version>-<arch>-<filename>
+```
+
+For example, for the Fedora Core 5 i386 `update.info.xml` file:
+
+```
+fedora-linux-core-updates-5-i386-updateinfo.xml
+```
+
 Notes
 -----
 

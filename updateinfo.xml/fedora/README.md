@@ -92,3 +92,26 @@ URLs:
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/ppc/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/ppc64/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/7/x86_64/repodata/updateinfo.xml.gz
+
+Fedora 8
+--------
+
+Retreived 2024-12-02.
+
+Last updated 2009-01-08 (newkey), 2008-09-10 (original).
+
+Architectures: `SRPMS`, `i386`, `ppc`, `ppc64`, `x86_64`. Each has a regular repo and a `.newkey` repo.
+
+The `main` / `updates` repository style continues, where `main` does not have `updateinfo.xml`.
+
+URLs:
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/SRPMS/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/i386/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/ppc/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/ppc64/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/x86_64/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/SRPMS.newkey/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/i386.newkey/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/ppc.newkey/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/ppc64.newkey/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/8/x86_64.newkey/repodata/updateinfo.xml.gz

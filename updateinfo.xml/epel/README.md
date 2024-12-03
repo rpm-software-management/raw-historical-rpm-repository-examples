@@ -95,3 +95,50 @@ URLs:
  - https://archive.fedoraproject.org/pub/archive/epel/{6,6.2017-11-07}/ppc64/repodata/8199ff1f5548b7cf5f052dd55e7586dcd40b48eb39855b5a706d069a44dec202-updateinfo.xml.bz2
  - https://archive.fedoraproject.org/pub/archive/epel/6/{SRPMS,i386,x86_64}/repodata/8c154dfbca035f5f6981648a6f390ffcd8c209878e9b4b3e293378ca01cd48c6-updateinfo.xml.bz2
 
+EPEL7
+-----
+
+Architectures: SRPMS, aarch64, ppc64, ppc64le, x86_64.
+
+There are repositories for 7.2019-05-29, 7.2020-04-20, 7.2020-10-05, 7.7, 7.8, 7.9, and 7.
+
+Last updated:
+
+ - 7.2019-05-29
+   - 2019-05-28 for ppc64
+   - 2019-05-29 for SRPMS, aarch64, ppc64le, and x86_64
+ - 7.2020-04-20
+   - 2019-05-28 ppc64
+   - 2019-10-09 for aarch64
+   - 2020-04-20 for x86_64, ppc64le, and SRPMS
+ - 7.2020-10-05
+   - 2019-05-28 for ppc64
+   - 2019-10-09 for aarch64
+   - 2020-10-05 for SRPMS, ppc64le, and SRPMS
+ - 7.7
+   - 2019-05-28 for ppc64
+   - 2019-10-09 for aarch64
+   - 2020-04-20 for x86_64, ppc64le, and SRPMS
+ - 7.8
+   - 2019-05-28 for ppc64
+   - 2019-10-09 for aarch64
+   - 2020-10-05 for x86_64, ppc64le, and SRPMS
+ - 7.9
+   - 2019-05-28 for ppc64
+   - 2019-10-09 for aarch64
+   - 2020-04-20 for x86_64, ppc64le, and SRPMS
+ - 7
+   - 2019-05-28 for ppc64
+   - 2019-10-09 for aarch64
+   - 2024-07-01 for ppc64le, x86_64, and SRPMS
+
+Where there are duplicates, symlinks are used. We only have a limited number of checksums archived, but more than previous releases due to different architectures ending support at different times.
+
+URLs:
+
+ - https://archive.fedoraproject.org/pub/archive/epel/{7.2019-05-29,7.2020-04-20,7.2020-10-05,7.7,7.8,7.9,7}/ppc64/repodata/57f7b4b9878bb00adf31e8c2ee7b2ed785a2af7e71133d9323f951214eb6faf6-updateinfo.xml.bz2
+ - https://archive.fedoraproject.org/pub/archive/epel/7.2019-05-29/{SRPMS,aarch64,ppc64le,x86_64}/repodata/57f7b4b9878bb00adf31e8c2ee7b2ed785a2af7e71133d9323f951214eb6faf6-updateinfo.xml.bz2
+ - https://archive.fedoraproject.org/pub/archive/epel/{7.2020-04-20,7.2020-10-05,7.7,7.8,7.9,7}/aarch64/repodata/e325a0c47955741b341cc0870dc01da18cacc4db5977a68ca2793b8f38e4ce67-updateinfo.xml.bz2
+ - https://archive.fedoraproject.org/pub/archive/epel/{7.2020-04-20,7.7,7.9}/{SRPMS,x86_64,ppc64le}/repodata/a0880c46388d966fc93497d8c90f9d8e687135801fa63e49384a5081d5fdc089-updateinfo.xml.bz2
+ - https://archive.fedoraproject.org/pub/archive/epel/{7.2020-10-05,7.8}/{SRPMS,x86_64,ppc64le}/repodata/85d22a0e09c82efaade6bbf48eec8ea651b1716f9a0b1f770bb94b16e0f9f1ae-updateinfo.xml.bz2
+ - https://archive.fedoraproject.org/pub/archive/epel/7/{SRPMS,x86_64,ppc64le}/repodata/ee7ce72544e0fca006120c613404d937cc3da9d09c7d80aea269df31639f310c-updateinfo.xml.bz2

@@ -145,3 +145,24 @@ URLs:
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/9/ppc.newkey/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/9/ppc64.newkey/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/9/x86_64.newkey/repodata/updateinfo.xml.gz
+
+Fedora 10, 11, 12
+--------
+
+Retreived 2024-12-02.
+
+Last updated:
+- Fedora 10: 2009-12-11
+- Fedora 11: 2010-06-25
+- Fedora 12: 2010-12-02
+
+Architectures: `SRPMS`, `i386`, `ppc`, `ppc64`, `x86_64`.
+
+The `main` / `updates` repository style continues, where `main` does not have `updateinfo.xml`.
+
+URLs:
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/SRPMS/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/i386/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/ppc/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/ppc64/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/x86_64/repodata/updateinfo.xml.gz

@@ -166,3 +166,27 @@ URLs:
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/ppc/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/ppc64/repodata/updateinfo.xml.gz
  - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{10,11,12}/x86_64/repodata/updateinfo.xml.gz
+
+Fedora 13, 14, 15, 16, 17, 18
+-----------------------------
+
+Retreived 2024-12-02.
+
+Last updated:
+- Fedora 13: 2011-06-24
+- Fedora 14: 2011-12-10
+- Fedora 15: 2012-06-25
+- Fedora 16: 2013-02-12
+- Fedora 17: 2013-07-30
+- Fedora 18: 2014-01-14
+
+Both `ppc` and `ppc64` are no longer part of the main Fedora distribution.
+
+Architectures: `SRPMS`, `i386`, `x86_64`.
+
+The `main` / `updates` repository style continues, where `main` does not have `updateinfo.xml`.
+
+URLs:
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{13,14,15,16,17,18}/SRPMS/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{13,14,15,16,17,18}/i386/repodata/updateinfo.xml.gz
+ - https://archive.fedoraproject.org/pub/archive/fedora/linux/updates/{13,14,15,16,17,18}/x86_64/repodata/updateinfo.xml.gz
